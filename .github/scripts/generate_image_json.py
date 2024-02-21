@@ -2,7 +2,7 @@ import os
 import json
 
 def generate_json():
-    image_folder = 'leviicons'
+    image_folder = 'Icons'
     json_data = {
         "name": "Peng图标订阅",
         "description": "收集一些自己常用的图标,欢迎大家引用,如您有新的软件图标可以在issue中说明.",
