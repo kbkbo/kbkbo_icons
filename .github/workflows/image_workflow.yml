@@ -41,7 +41,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: json-artifact
-        path: ${{ github.workspace }}/test.icons.json
+        path: ${{ github.workspace }}/Peng.icons.json
 
     - name: Push to Peng_Icons Repository
       run: |
