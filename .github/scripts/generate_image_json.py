@@ -4,7 +4,7 @@ import json
 def generate_json():
     image_folder = 'leviicons'
     json_data = {
-        "name": "Levi图标订阅",
+        "name": "Peng图标订阅",
         "description": "收集一些自己常用的图标,欢迎大家引用,如您有新的软件图标可以在issue中说明.",
         "icons": []
     }
@@ -17,7 +17,7 @@ def generate_json():
             json_data["icons"].append(icon_data)
 
     # Set the output path relative to the repository root
-    output_path = os.path.join(os.getcwd(), 'levi.icons.json')
+    output_path = os.path.join(os.getcwd(), 'Peng.icons.json')
 
     with open(output_path, 'w', encoding='utf-8') as json_file:
         json.dump(json_data, json_file, ensure_ascii=False, indent=2)
