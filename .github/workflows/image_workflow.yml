@@ -3,10 +3,10 @@ name: Image Workflow
 on:
   push:
     paths:
-      - 'leviicons/**' # 监视 leviicons 文件夹及其子文件夹下的内容
+      - 'Icons/**' # 监视 leviicons 文件夹及其子文件夹下的内容
   pull_request:
     paths:
-      - 'leviicons/**' # 监视 leviicons 文件夹及其子文件夹下的内容
+      - 'Icons/**' # 监视 leviicons 文件夹及其子文件夹下的内容
 
 jobs:
   generate_json:
@@ -36,7 +36,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: json-artifact
-        path: ${{ github.workspace }}/levi.icons.json
+        path: ${{ github.workspace }}/Peng.icons.json
 
     - name: Push to TEST Repository
       run: |
