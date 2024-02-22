@@ -1,1 +1,22 @@
-
+{
+  "name": "Peng_Icons图标订阅",
+  "description": "收集一些自己常用的图标",
+  "icons": [
+    {
+      "name": "TikTok.png",
+      "url": "https://raw.githubusercontent.com/Peng90813/Peng_Icons/main/Icons/TikTok.png"
+    },
+    {
+      "name": "TADAL.png",
+      "url": "https://raw.githubusercontent.com/Peng90813/Peng_Icons/main/Icons/TADAL.png"
+    },
+    {
+      "name": "spotify.png",
+      "url": "https://raw.githubusercontent.com/Peng90813/Peng_Icons/main/Icons/spotify.png"
+    },
+    {
+      "name": "YouTube.png",
+      "url": "https://raw.githubusercontent.com/Peng90813/Peng_Icons/main/Icons/YouTube.png"
+    }
+  ]
+}
