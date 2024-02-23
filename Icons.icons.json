@@ -3,10 +3,6 @@
   "description": "收集一些自己常用的图标",
   "icons": [
     {
-      "name": "iMaoTai.png",
-      "url": "https://raw.githubusercontent.com/Peng90813/Peng_Icons/main/Icons/iMaoTai.png"
-    },
-    {
       "name": "TADAL.png",
       "url": "https://raw.githubusercontent.com/Peng90813/Peng_Icons/main/Icons/TADAL.png"
     },
