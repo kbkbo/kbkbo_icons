@@ -1,22 +1,26 @@
 {
-  "name": "Peng_Icons图标订阅",
-  "description": "收集一些自己常用的图标",
+  "name": "Deyo572_Icons图标订阅",
+  "description": "收集一些自己常用的图标,如果你有喜欢的图标在issue提交吧，我看到以后会把它＋到仓库链接",
   "icons": [
     {
       "name": "TADAL.png",
-      "url": "https://raw.githubusercontent.com/Peng90813/Peng_Icons/main/Icons/TADAL.png"
+      "url": "https://raw.githubusercontent.com/Deyo572/Deyo572_Icons/main/Icons/TADAL.png"
+    },
+    {
+      "name": "GitHub.png",
+      "url": "https://raw.githubusercontent.com/Deyo572/Deyo572_Icons/main/Icons/GitHub.png"
     },
     {
       "name": "spotify.png",
-      "url": "https://raw.githubusercontent.com/Peng90813/Peng_Icons/main/Icons/spotify.png"
+      "url": "https://raw.githubusercontent.com/Deyo572/Deyo572_Icons/main/Icons/spotify.png"
     },
     {
       "name": "telegram.png",
-      "url": "https://raw.githubusercontent.com/Peng90813/Peng_Icons/main/Icons/telegram.png"
+      "url": "https://raw.githubusercontent.com/Deyo572/Deyo572_Icons/main/Icons/telegram.png"
     },
     {
       "name": "YouTube.png",
-      "url": "https://raw.githubusercontent.com/Peng90813/Peng_Icons/main/Icons/YouTube.png"
+      "url": "https://raw.githubusercontent.com/Deyo572/Deyo572_Icons/main/Icons/YouTube.png"
     }
   ]
 }
