@@ -4,8 +4,8 @@ import json
 def generate_json():
     image_folder = 'Icons'
     json_data = {
-        "name": "Peng_Icons图标订阅",
-        "description": "收集一些自己常用的图标",
+        "name": "Deyo572_Icons图标订阅",
+        "description": "收集一些自己常用的图标,如果你有喜欢的图标在issue提交吧，我看到以后会把它＋到仓库链接",
         "icons": []
     }
 
