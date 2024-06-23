@@ -41,7 +41,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: json-artifact
-        path: ${{ github.workspace }}/Icons.icons.json
+        path: ${{ github.workspace }}/kbkbo.icons.json
 
     - name: Push to kbkbo_icons Repository
       run: |
