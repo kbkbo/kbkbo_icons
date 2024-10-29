@@ -21,6 +21,11 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3  # 更新到 v3
 
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'  # 强制使用 Node.js 20
+
     - name: Set up Python
       uses: actions/setup-python@v4  # 更新到 v4
       with:
