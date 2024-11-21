@@ -1,0 +1,78 @@
+{
+  "name": "chavez_icons",
+  "description": "收集一些自己常用的图标,如果你有喜欢的图标不在列表，请到issue提交，我看到以后会把它＋到icons仓库",
+  "icons": [
+    {
+      "name": "TikTok.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/TikTok.png"
+    },
+    {
+      "name": "iMaoTai.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/iMaoTai.png"
+    },
+    {
+      "name": "CSDN.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/CSDN.png"
+    },
+    {
+      "name": "BDPAN.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/BDPAN.png"
+    },
+    {
+      "name": "BKZF.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/BKZF.png"
+    },
+    {
+      "name": "Perplexity.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Perplexity.png"
+    },
+    {
+      "name": "Telegram.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Telegram.png"
+    },
+    {
+      "name": "TADAL.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/TADAL.png"
+    },
+    {
+      "name": "Google.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Google.png"
+    },
+    {
+      "name": "Bing.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Bing.png"
+    },
+    {
+      "name": "YouTube.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/YouTube.png"
+    },
+    {
+      "name": "GitHub.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/GitHub.png"
+    },
+    {
+      "name": "Spotify.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Spotify.png"
+    },
+    {
+      "name": "Bilibili.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Bilibili.png"
+    },
+    {
+      "name": "ChatGPT.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/ChatGPT.png"
+    },
+    {
+      "name": "WeChat.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/WeChat.png"
+    },
+    {
+      "name": "Working.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Working.png"
+    },
+    {
+      "name": "Notion.png",
+      "url": "https://raw.githubusercontent.com/Chavez-2025/chavez_icons/main/Icons/Notion.png"
+    }
+  ]
+}
