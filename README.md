@@ -1,4 +1,4 @@
-# kbkbo_icons
+# Chavez_icons
 ## 图标仓库
 
 免责声明
@@ -24,4 +24,3 @@
 
 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=guodongxiaren/README&type=Date)](https://star-history.com/#Chavez-2025/chavez-icons)
